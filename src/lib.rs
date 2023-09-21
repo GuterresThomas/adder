@@ -38,7 +38,5 @@ mod tests {
 
         assert!(larger.can_hold(&smaller));
     }
-    fn another() {
-        panic!("Make this test fail");
-    }
+
 }
